@@ -3,7 +3,11 @@ email : err643304@gmail.com
 ## 🔮 *Reflecting the mind's eye — Mind to Image*
 Enviorment linux 
 thirdparty services: glad, imgui
-Instructions: execute build file in /build/pywgl_tabbed by running command ./pywgl_tabbed
+Instructions: execute build file in /build/pywgl_tabbed by running 
+
+
+
+-command ./pywgl_tabbed
 ---
 
 > ⚠️ **WARNING THIS TOOL IS DANGEROUS FOR MANKIND** ⚠️  
