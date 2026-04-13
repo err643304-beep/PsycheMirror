@@ -1,7 +1,7 @@
 # 🧠✨ PsycheMirror
 email : err643304@gmail.com
 ## 🔮 *Reflecting the mind's eye — Mind to Image*
-
+Instructions: execute build file in /build/
 ---
 
 > ⚠️ **WARNING THIS TOOL IS DANGEROUS FOR MANKIND** ⚠️  
