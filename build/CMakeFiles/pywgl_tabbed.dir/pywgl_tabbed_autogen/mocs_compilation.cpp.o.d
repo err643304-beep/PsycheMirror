@@ -1,0 +1,3 @@
+CMakeFiles/pywgl_tabbed.dir/pywgl_tabbed_autogen/mocs_compilation.cpp.o: \
+ /home/salim/Desktop/edoos\ (124th\ copy)/build/CMakeFiles/CMakeScratch/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/Untitled\ Folder/build/pywgl_tabbed_autogen/mocs_compilation.cpp \
+ /usr/include/stdc-predef.h
