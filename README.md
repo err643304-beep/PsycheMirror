@@ -1,5 +1,5 @@
 # 🧠✨ PsycheMirror
-
+email : err643304@gmail.com
 ## 🔮 *Reflecting the mind's eye — Mind to Image*
 
 ---
